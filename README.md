@@ -3,7 +3,7 @@
 
 Implementation of **graphs**, **trees** and **hash tables** in C, applied to three problems set in the *Super Structure Bros* videogame universe.
 
-Project 3 of the *Algorithms and Programming Data Structures* (APDS) course, BSc in Artificial Intelligence & Data Science, La Salle – Universitat Ramon Llull.
+Project 3 of the *Advanced Programming Data Structures* (APDS) course, BSc in Artificial Intelligence & Data Science, La Salle – Universitat Ramon Llull.
 
 **Authors:** Sara Gibert, Oriol Pros, Francesc Mateu and Jan Porcar (group APDS-P3-G10)
 
